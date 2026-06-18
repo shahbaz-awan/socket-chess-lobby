@@ -1,4 +1,3 @@
-
 # ♟️ Multiplayer Chess Game using Socket Programming
 
 A real-time multiplayer chess game built with Python using socket programming. The system follows a client-server architecture where the server manages matchmaking, game sessions, and communication between clients. It also supports GUI-based interaction, chat messaging, spectator mode, and full chess logic with rule enforcement.
@@ -62,8 +61,8 @@ pip install chess
 ### 📂 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/MultiplayerChess-SocketGUI.git
-cd MultiplayerChess-SocketGUI
+git clone https://github.com/shahbaz-awan/socket-chess-lobby.git
+cd socket-chess-lobby
 ```
 
 ### ▶️ Run the Server

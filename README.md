@@ -103,7 +103,7 @@ python client.py
 
 ## 👨‍💻 Author
 
-**M. Faizan**  
+**M. Shahbaz Awan**  
 Software Engineer | Python Developer
 
 ---

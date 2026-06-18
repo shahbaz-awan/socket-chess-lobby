@@ -1,0 +1,10 @@
+chess
+socket
+threading
+tkinter
+PIL
+time
+io
+os
+communication
+config
